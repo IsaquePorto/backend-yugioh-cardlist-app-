@@ -1,0 +1,598 @@
+{
+  "cards": [
+    {
+      "name": "Dark Hole",
+      "cardType": "spell",
+      "type": "spell",
+      "attribute": "spell",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Dark Hole.png",
+      "id": 1
+    },
+    {
+      "name": "Blue-eyes white Dragon",
+      "cardType": "monster-normal",
+      "type": "dragon",
+      "attribute": "light",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Blue-Eyes White Dragon.png",
+      "id": 2
+    },
+    {
+      "name": "Dark Magician",
+      "cardType": "monster-normal",
+      "type": "spellcaster",
+      "attribute": "dark",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Dark Magician.png",
+      "id": 3
+    },
+    {
+      "name": "Flame Swordsman",
+      "cardType": "monster-fusion",
+      "type": "warrior",
+      "attribute": "fire",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Flame Swordsman.png",
+      "id": 4
+    },
+    {
+      "name": "Skull Servant",
+      "cardType": "monster-normal",
+      "type": "zombie",
+      "attribute": "dark",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Skull Servant.png",
+      "id": 5
+    },
+    {
+      "name": "Hitotsu-Me Giant",
+      "cardType": "monster-normal",
+      "type": "beast-warrior",
+      "attribute": "earth",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Hitotsu-Me Giant.png",
+      "id": 6
+    },
+    {
+      "name": "Gaia The Fierce Knight",
+      "cardType": "monster-normal",
+      "type": "warrior",
+      "attribute": "earth",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Gaia The Fierce Knight.png",
+      "id": 7
+    },
+    {
+      "name": "Celtic Guardian",
+      "cardType": "monster-normal",
+      "type": "warrior",
+      "attribute": "earth",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Celtic Guardian.png",
+      "id": 8
+    },
+    {
+      "name": "Basic Insect",
+      "cardType": "monster-normal",
+      "type": "insect",
+      "attribute": "earth",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Basic Insect.png",
+      "id": 9
+    },
+    {
+      "name": "Mammoth Graveyard",
+      "cardType": "monster-normal",
+      "type": "dinosaur",
+      "attribute": "earth",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Mammoth Graveyard.png",
+      "id": 10
+    },
+    {
+      "name": "Silver Fang",
+      "cardType": "monster-normal",
+      "type": "beast",
+      "attribute": "earth",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Silver Fang.png",
+      "id": 11
+    },
+    {
+      "name": "Dark Gray",
+      "cardType": "monster-normal",
+      "type": "beast",
+      "attribute": "earth",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Dark Gray.png",
+      "id": 12
+    },
+    {
+      "name": "Charubin the Fire Knight",
+      "cardType": "monster-fusion",
+      "type": "pyro",
+      "attribute": "fire",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Charubin the Fire Knight.png",
+      "id": 13
+    },
+    {
+      "name": "Gate Guardian",
+      "cardType": "monster-effect",
+      "type": "warrior",
+      "attribute": "dark",
+      "edition": "mrd",
+      "imageLink": "assets/Cartas/Gate Guardian.png",
+      "id": 14
+    },
+    {
+      "name": "Feral Imp",
+      "cardType": "monster-normal",
+      "type": "fiend",
+      "attribute": "dark",
+      "edition": "mrd",
+      "imageLink": "assets/Cartas/Feral Imp.png",
+      "id": 15
+    },
+    {
+      "name": "Trial of Nightmare",
+      "cardType": "monster-normal",
+      "type": "fiend",
+      "attribute": "dark",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Trial of Nightmare.png",
+      "id": 16
+    },
+    {
+      "name": "Nemuriko",
+      "cardType": "monster-normal",
+      "type": "spellcaster",
+      "attribute": "dark",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Nemuriko.png",
+      "id": 17
+    },
+    {
+      "name": "The 13th Grave",
+      "cardType": "monster-normal",
+      "type": "zombie",
+      "attribute": "dark",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/The 13th Grave.png",
+      "id": 18
+    },
+    {
+      "name": "Flame Manipulator",
+      "cardType": "monster-normal",
+      "type": "spellcaster",
+      "attribute": "fire",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Flame Manipulator.png",
+      "id": 19
+    },
+    {
+      "name": "Monster Egg",
+      "cardType": "monster-normal",
+      "type": "warrior",
+      "attribute": "earth",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Monster Egg.png",
+      "id": 20
+    },
+    {
+      "name": "Firegrass",
+      "cardType": "monster-normal",
+      "type": "plant",
+      "attribute": "earth",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Firegrass.png",
+      "id": 21
+    },
+    {
+      "name": "Dark King of the Abyss",
+      "cardType": "monster-normal",
+      "type": "fiend",
+      "attribute": "dark",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Dark King of the Abyss.png",
+      "id": 22
+    },
+    {
+      "name": "Winged Dragon Guardian of the Fortress 1",
+      "cardType": "monster-normal",
+      "type": "dragon",
+      "attribute": "wind",
+      "edition": "mrd",
+      "imageLink": "assets/Cartas/Winged Dragon Guardian of the Fortress 1.png",
+      "id": 23
+    },
+    {
+      "name": "Summoned Skull",
+      "cardType": "monster-normal",
+      "type": "fiend",
+      "attribute": "dark",
+      "edition": "mrd",
+      "imageLink": "assets/Cartas/Summoned Skull.png",
+      "id": 24
+    },
+    {
+      "name": "Rock Ogre Grotto 1",
+      "cardType": "monster-normal",
+      "type": "rock",
+      "attribute": "earth",
+      "edition": "mrd",
+      "imageLink": "assets/Cartas/Rock Ogre Grotto 1.png",
+      "id": 25
+    },
+    {
+      "name": "Armored Lizard",
+      "cardType": "monster-normal",
+      "type": "reptile",
+      "attribute": "earth",
+      "edition": "mrd",
+      "imageLink": "assets/Cartas/Armored Lizard.png",
+      "id": 26
+    },
+    {
+      "name": "Killer Needle",
+      "cardType": "monster-normal",
+      "type": "insect",
+      "attribute": "wind",
+      "edition": "mrd",
+      "imageLink": "assets/Cartas/Killer Needle.png",
+      "id": 27
+    },
+    {
+      "name": "Larvae Moth",
+      "cardType": "monster-effect",
+      "type": "insect",
+      "attribute": "earth",
+      "edition": "mrd",
+      "imageLink": "assets/Cartas/Larvae Moth.png",
+      "id": 28
+    },
+    {
+      "name": "Harpie Lady",
+      "cardType": "monster-normal",
+      "type": "winged beast",
+      "attribute": "wind",
+      "edition": "mrd",
+      "imageLink": "assets/Cartas/Harpie Lady.png",
+      "id": 29
+    },
+    {
+      "name": "Harpie Lady Sisters",
+      "cardType": "monster-effect",
+      "type": "winged beast",
+      "attribute": "wind",
+      "edition": "mrd",
+      "imageLink": "assets/Cartas/Harpie Lady Sisters.png",
+      "id": 30
+    },
+    {
+      "name": "Fiend Reflection 2",
+      "cardType": "monster-normal",
+      "type": "winged beast",
+      "attribute": "light",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Fiend Reflection 2.png",
+      "id": 31
+    },
+    {
+      "name": "Fusionist",
+      "cardType": "monster-fusion",
+      "type": "beast",
+      "attribute": "earth",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Fusionist.png",
+      "id": 32
+    },
+    {
+      "name": "Turtle Tiger",
+      "cardType": "monster-normal",
+      "type": "aqua",
+      "attribute": "water",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Turtle Tiger.png",
+      "id": 33
+    },
+    {
+      "name": "Petit Dragon",
+      "cardType": "monster-normal",
+      "type": "dragon",
+      "attribute": "wind",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Petit Dragon.png",
+      "id": 34
+    },
+    {
+      "name": "Petit Angel",
+      "cardType": "monster-normal",
+      "type": "fairy",
+      "attribute": "light",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Petit Angel.png",
+      "id": 35
+    },
+    {
+      "name": "Hinotama Soul",
+      "cardType": "monster-normal",
+      "type": "pyro",
+      "attribute": "fire",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Hinotama Soul.png",
+      "id": 36
+    },
+    {
+      "name": "Aqua Madoor",
+      "cardType": "monster-normal",
+      "type": "spellcaster",
+      "attribute": "water",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Aqua Madoor.png",
+      "id": 37
+    },
+    {
+      "name": "Kagemusha of the Blue Flame",
+      "cardType": "monster-normal",
+      "type": "warrior",
+      "attribute": "earth",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Kagemusha of the Blue Flame.png",
+      "id": 38
+    },
+    {
+      "name": "Two-Mouth Darkruler",
+      "cardType": "monster-normal",
+      "type": "dragon",
+      "attribute": "earth",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Two-Mouth Darkruler.png",
+      "id": 39
+    },
+    {
+      "name": "Dissolverock",
+      "cardType": "monster-normal",
+      "type": "rock",
+      "attribute": "earth",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Dissolverock.png",
+      "id": 40
+    },
+    {
+      "name": "Root Water",
+      "cardType": "monster-normal",
+      "type": "fish",
+      "attribute": "water",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Root Water.png",
+      "id": 41
+    },
+    {
+      "name": "The Furious Sea King",
+      "cardType": "monster-normal",
+      "type": "aqua",
+      "attribute": "water",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/The Furious Sea King.png",
+      "id": 42
+    },
+    {
+      "name": "Green Phantom King",
+      "cardType": "monster-normal",
+      "type": "plant",
+      "attribute": "earth",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Green Phantom King.png",
+      "id": 43
+    },
+    {
+      "name": "Ray & Temperature",
+      "cardType": "monster-normal",
+      "type": "fairy",
+      "attribute": "light",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Ray & Temperature.png",
+      "id": 44
+    },
+    {
+      "name": "King Fog",
+      "cardType": "monster-normal",
+      "type": "fiend",
+      "attribute": "dark",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/King Fog.png",
+      "id": 45
+    },
+    {
+      "name": "Mystical Sheep 2",
+      "cardType": "monster-normal",
+      "type": "beast",
+      "attribute": "earth",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Mystical Sheep 2.png",
+      "id": 46
+    },
+    {
+      "name": "Masaki the Legendary Swordsman",
+      "cardType": "monster-normal",
+      "type": "warrior",
+      "attribute": "earth",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Masaki the Legendary Swordsman.png",
+      "id": 47
+    },
+    {
+      "name": "Kurama",
+      "cardType": "monster-normal",
+      "type": "winged beast",
+      "attribute": "wind",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Kurama.png",
+      "id": 48
+    },
+    {
+      "name": "Legendary Sword",
+      "cardType": "spell",
+      "type": "spell",
+      "attribute": "spell",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Legendary Sword.png",
+      "id": 49
+    },
+    {
+      "name": "Beast Fangs",
+      "cardType": "spell",
+      "type": "spell",
+      "attribute": "spell",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Beast Fangs.png",
+      "id": 50
+    },
+    {
+      "name": "Violet Crystal",
+      "cardType": "spell",
+      "type": "spell",
+      "attribute": "spell",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Violet Crystal.png",
+      "id": 51
+    },
+    {
+      "name": "Book of Secret Arts",
+      "cardType": "spell",
+      "type": "spell",
+      "attribute": "spell",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Book of Secret Arts.png",
+      "id": 52
+    },
+    {
+      "name": "Power of Kaishin",
+      "cardType": "spell",
+      "type": "spell",
+      "attribute": "spell",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Power of Kaishin.png",
+      "id": 53
+    },
+    {
+      "name": "Forest",
+      "cardType": "spell",
+      "type": "spell",
+      "attribute": "spell",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Forest.png",
+      "id": 54
+    },
+    {
+      "name": "Wasteland",
+      "cardType": "spell",
+      "type": "spell",
+      "attribute": "spell",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Wasteland.png",
+      "id": 55
+    },
+    {
+      "name": "Mountain",
+      "cardType": "spell",
+      "type": "spell",
+      "attribute": "spell",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Mountain.png",
+      "id": 56
+    },
+    {
+      "name": "Sogen",
+      "cardType": "spell",
+      "type": "spell",
+      "attribute": "spell",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Sogen.png",
+      "id": 57
+    },
+    {
+      "name": "Umi",
+      "cardType": "spell",
+      "type": "spell",
+      "attribute": "spell",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Umi.png",
+      "id": 58
+    },
+    {
+      "name": "Yami",
+      "cardType": "spell",
+      "type": "spell",
+      "attribute": "spell",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Yami.png",
+      "id": 59
+    },
+    {
+      "name": "Red Medicine",
+      "cardType": "spell",
+      "type": "spell",
+      "attribute": "spell",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Red Medicine.png",
+      "id": 60
+    },
+    {
+      "name": "Sparks",
+      "cardType": "spell",
+      "type": "spell",
+      "attribute": "spell",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Sparks.png",
+      "id": 61
+    },
+    {
+      "name": "Hinotama",
+      "cardType": "spell",
+      "type": "spell",
+      "attribute": "spell",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Hinotama.png",
+      "id": 62
+    },
+    {
+      "name": "Fissure",
+      "cardType": "spell",
+      "type": "spell",
+      "attribute": "spell",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Fissure.png",
+      "id": 63
+    },
+    {
+      "name": "Kojikocy",
+      "cardType": "monster-normal",
+      "type": "warrior",
+      "attribute": "earth",
+      "edition": "mrd",
+      "imageLink": "assets/Cartas/Kojikocy.png",
+      "id": 64
+    },
+    {
+      "name": "Cocoon of Evolution",
+      "cardType": "monster-effect",
+      "type": "insect",
+      "attribute": "earth",
+      "edition": "mrd",
+      "imageLink": "assets/Cartas/Cocoon of Evolution.png",
+      "id": 65
+    },
+    {
+      "name": "Crawling Dragon",
+      "cardType": "monster-normal",
+      "type": "dragon",
+      "attribute": "earth",
+      "edition": "mrd",
+      "imageLink": "assets/Cartas/Crawling Dragon.png",
+      "id": 66
+    }
+  ]
+}
