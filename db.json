@@ -593,6 +593,575 @@
       "edition": "mrd",
       "imageLink": "assets/Cartas/Crawling Dragon.png",
       "id": 66
+    },
+    {
+      "name": "Jinzo",
+      "cardType": "monster-effect",
+      "type": "machine",
+      "attribute": "dark",
+      "edition": "psv",
+      "imageLink": "assets/Cartas/Jinzo.png",
+      "id": 67
+    },
+    {
+      "name": "Steel Ogre Grotto 2",
+      "cardType": "monster-normal",
+      "type": "machine",
+      "attribute": "earth",
+      "edition": "psv",
+      "imageLink": "assets/Cartas/Steel Ogre Grotto 2.png",
+      "id": 68
+    },
+    {
+      "name": "Three-Headed Geedo",
+      "cardType": "monster-normal",
+      "type": "fiend",
+      "attribute": "dark",
+      "edition": "psv",
+      "imageLink": "assets/Cartas/Three-Headed Geedo.png",
+      "id": 69
+    },
+    {
+      "name": "Parasite Paracide",
+      "cardType": "monster-effect",
+      "type": "insect",
+      "attribute": "earth",
+      "edition": "psv",
+      "imageLink": "assets/Cartas/Parasite Paracide.png",
+      "id": 70
+    },
+    {
+      "name": "7 Completed",
+      "cardType": "spell",
+      "type": "spell",
+      "attribute": "spell",
+      "edition": "psv",
+      "imageLink": "assets/Cartas/7 Completed.png",
+      "id": 71
+    },
+    {
+      "name": "Lightforce Sword",
+      "cardType": "trap",
+      "type": "trap",
+      "attribute": "trap",
+      "edition": "psv",
+      "imageLink": "assets/Cartas/Lightforce Sword.png",
+      "id": 72
+    },
+    {
+      "name": "Chain Destruction",
+      "cardType": "trap",
+      "type": "trap",
+      "attribute": "trap",
+      "edition": "psv",
+      "imageLink": "assets/Cartas/Chain Destruction.png",
+      "id": 73
+    },
+    {
+      "name": "Gift of The Mystical Elf",
+      "cardType": "trap",
+      "type": "trap",
+      "attribute": "trap",
+      "edition": "psv",
+      "imageLink": "assets/Cartas/Gift of The Mystical Elf.png",
+      "id": 74
+    },
+    {
+      "name": "The Eye of Truth",
+      "cardType": "trap",
+      "type": "trap",
+      "attribute": "trap",
+      "edition": "psv",
+      "imageLink": "assets/Cartas/The Eye of Truth.png",
+      "id": 75
+    },
+    {
+      "name": "Dust Tornado",
+      "cardType": "trap",
+      "type": "trap",
+      "attribute": "trap",
+      "edition": "psv",
+      "imageLink": "assets/Cartas/Dust Tornado.png",
+      "id": 76
+    },
+    {
+      "name": "Call of the Haunted",
+      "cardType": "trap",
+      "type": "trap",
+      "attribute": "trap",
+      "edition": "psv",
+      "imageLink": "assets/Cartas/Call of the Haunted.png",
+      "id": 77
+    },
+    {
+      "name": "Solomon's Lawbook",
+      "cardType": "trap",
+      "type": "trap",
+      "attribute": "trap",
+      "edition": "psv",
+      "imageLink": "assets/Cartas/Solomon's Lawbook.png",
+      "id": 78
+    },
+    {
+      "name": "Earthshaker",
+      "cardType": "trap",
+      "type": "trap",
+      "attribute": "trap",
+      "edition": "psv",
+      "imageLink": "assets/Cartas/Earthshaker.png",
+      "id": 79
+    },
+    {
+      "name": "Enchanted Javelin",
+      "cardType": "trap",
+      "type": "trap",
+      "attribute": "trap",
+      "edition": "psv",
+      "imageLink": "assets/Cartas/Enchanted Javelin.png",
+      "id": 80
+    },
+    {
+      "name": "Mirror Wall",
+      "cardType": "trap",
+      "type": "trap",
+      "attribute": "trap",
+      "edition": "psv",
+      "imageLink": "assets/Cartas/Mirror Wall.png",
+      "id": 81
+    },
+    {
+      "name": "Gust",
+      "cardType": "trap",
+      "type": "trap",
+      "attribute": "trap",
+      "edition": "psv",
+      "imageLink": "assets/Cartas/Gust.png",
+      "id": 82
+    },
+    {
+      "name": "Driving Snow",
+      "cardType": "trap",
+      "type": "trap",
+      "attribute": "trap",
+      "edition": "psv",
+      "imageLink": "assets/Cartas/Driving Snow.png",
+      "id": 83
+    },
+    {
+      "name": "Armored Glass",
+      "cardType": "trap",
+      "type": "trap",
+      "attribute": "trap",
+      "edition": "psv",
+      "imageLink": "assets/Cartas/Armored Glass.png",
+      "id": 84
+    },
+    {
+      "name": "Blue-Eyes Toon Dragon",
+      "cardType": "monster-effect",
+      "type": "dragon",
+      "attribute": "light",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Blue-Eyes Toon Dragon.png",
+      "id": 85
+    },
+    {
+      "name": "Penguin Knight",
+      "cardType": "monster-effect",
+      "type": "aqua",
+      "attribute": "water",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Penguin Knight.png",
+      "id": 86
+    },
+    {
+      "name": "Axe of Despair",
+      "cardType": "spell",
+      "type": "spell",
+      "attribute": "spell",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Axe of Despair.png",
+      "id": 87
+    },
+    {
+      "name": "Black Pendant",
+      "cardType": "spell",
+      "type": "spell",
+      "attribute": "spell",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Black Pendant.png",
+      "id": 88
+    },
+    {
+      "name": "Horn of Light",
+      "cardType": "spell",
+      "type": "spell",
+      "attribute": "spell",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Horn of Light.png",
+      "id": 89
+    },
+    {
+      "name": "Malevolent Nuzzler",
+      "cardType": "spell",
+      "type": "spell",
+      "attribute": "spell",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Malevolent Nuzzler.png",
+      "id": 90
+    },
+    {
+      "name": "Spellbinding Circle",
+      "cardType": "trap",
+      "type": "trap",
+      "attribute": "trap",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Spellbinding Circle.png",
+      "id": 91
+    },
+    {
+      "name": "Metal Fish",
+      "cardType": "monster-normal",
+      "type": "machine",
+      "attribute": "water",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Metal Fish.png",
+      "id": 92
+    },
+    {
+      "name": "Electric Snake",
+      "cardType": "monster-effect",
+      "type": "thunder",
+      "attribute": "light",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Electric Snake.png",
+      "id": 93
+    },
+    {
+      "name": "Queen Bird",
+      "cardType": "monster-normal",
+      "type": "winged beast",
+      "attribute": "wind",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Queen Bird.png",
+      "id": 94
+    },
+    {
+      "name": "Peacock",
+      "cardType": "monster-normal",
+      "type": "winged beast",
+      "attribute": "wind",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Peacock.png",
+      "id": 95
+    },
+    {
+      "name": "Maha Vailo",
+      "cardType": "monster-effect",
+      "type": "spellcaster",
+      "attribute": "light",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Maha Vailo.png",
+      "id": 96
+    },
+    {
+      "name": "Guardian of the Throne Room",
+      "cardType": "monster-normal",
+      "type": "machine",
+      "attribute": "light",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Guardian of the Throne Room.png",
+      "id": 97
+    },
+    {
+      "name": "Fire Kraken",
+      "cardType": "monster-normal",
+      "type": "aqua",
+      "attribute": "fire",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Fire Kraken.png",
+      "id": 98
+    },
+    {
+      "name": "Minar",
+      "cardType": "monster-effect",
+      "type": "insect",
+      "attribute": "earth",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Minar.png",
+      "id": 99
+    },
+    {
+      "name": "Griggle",
+      "cardType": "monster-effect",
+      "type": "plant",
+      "attribute": "earth",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Griggle.png",
+      "id": 100
+    },
+    {
+      "name": "Tyhone 2",
+      "cardType": "monster-normal",
+      "type": "dragon",
+      "attribute": "fire",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Tyhone 2.png",
+      "id": 101
+    },
+    {
+      "name": "Ancient One of the Deep Forest",
+      "cardType": "monster-normal",
+      "type": "beast",
+      "attribute": "earth",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Ancient One of the Deep Forest.png",
+      "id": 102
+    },
+    {
+      "name": "Weather Report",
+      "cardType": "monster-effect",
+      "type": "aqua",
+      "attribute": "water",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Weather Report.png",
+      "id": 103
+    },
+    {
+      "name": "Mechanical Snail",
+      "cardType": "monster-normal",
+      "type": "machine",
+      "attribute": "dark",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Mechanical Snail.png",
+      "id": 104
+    },
+    {
+      "name": "Giant Turtle Who Feeds on Flames",
+      "cardType": "monster-normal",
+      "type": "aqua",
+      "attribute": "water",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Giant Turtle Who Feeds on Flames.png",
+      "id": 105
+    },
+    {
+      "name": "Liquid Beast",
+      "cardType": "monster-normal",
+      "type": "aqua",
+      "attribute": "water",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Liquid Beast.png",
+      "id": 106
+    },
+    {
+      "name": "Hiro's Shadow Scout",
+      "cardType": "monster-effect",
+      "type": "fiend",
+      "attribute": "dark",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Hiro's Shadow Scout.png",
+      "id": 107
+    },
+    {
+      "name": "High Tide Gyojin",
+      "cardType": "monster-normal",
+      "type": "aqua",
+      "attribute": "water",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/High Tide Gyojin.png",
+      "id": 108
+    },
+    {
+      "name": "Invader of the Throne",
+      "cardType": "monster-effect",
+      "type": "warrior",
+      "attribute": "earth",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Invader of the Throne.png",
+      "id": 109
+    },
+    {
+      "name": "Whiptail Crow",
+      "cardType": "monster-normal",
+      "type": "fiend",
+      "attribute": "dark",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Whiptail Crow.png",
+      "id": 110
+    },
+    {
+      "name": "Slot Machine",
+      "cardType": "monster-normal",
+      "type": "machine",
+      "attribute": "dark",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Slot Machine.png",
+      "id": 111
+    },
+    {
+      "name": "Relinquished",
+      "cardType": "monster-ritual",
+      "type": "spellcaster",
+      "attribute": "dark",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Relinquished.png",
+      "id": 112
+    },
+    {
+      "name": "Red Archery Girl",
+      "cardType": "monster-normal",
+      "type": "aqua",
+      "attribute": "water",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Red Archery Girl.png",
+      "id": 113
+    },
+    {
+      "name": "Gravekeeper's Servant",
+      "cardType": "spell",
+      "type": "spell",
+      "attribute": "spell",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Gravekeeper's Servant.png",
+      "id": 114
+    },
+    {
+      "name": "Upstart Goblin",
+      "cardType": "spell",
+      "type": "spell",
+      "attribute": "spell",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Upstart Goblin.png",
+      "id": 115
+    },
+    {
+      "name": "Curse of Fiend",
+      "cardType": "spell",
+      "type": "spell",
+      "attribute": "spell",
+      "edition": "mrl",
+      "imageLink": "assets/Cartas/Curse of Fiend.png",
+      "id": 116
+    }
+  ],
+  "mydeck": [
+    {
+      "name": "Winged Dragon Guardian of the Fortress 1",
+      "cardType": "monster-normal",
+      "type": "dragon",
+      "attribute": "wind",
+      "edition": "mrd",
+      "imageLink": "assets/Cartas/Winged Dragon Guardian of the Fortress 1.png",
+      "id": 23
+    },
+    {
+      "name": "Summoned Skull",
+      "cardType": "monster-normal",
+      "type": "fiend",
+      "attribute": "dark",
+      "edition": "mrd",
+      "imageLink": "assets/Cartas/Summoned Skull.png",
+      "id": 24
+    },
+    {
+      "name": "Larvae Moth",
+      "cardType": "monster-effect",
+      "type": "insect",
+      "attribute": "earth",
+      "edition": "mrd",
+      "imageLink": "assets/Cartas/Larvae Moth.png",
+      "id": 28
+    },
+    {
+      "name": "Harpie Lady",
+      "cardType": "monster-normal",
+      "type": "winged beast",
+      "attribute": "wind",
+      "edition": "mrd",
+      "imageLink": "assets/Cartas/Harpie Lady.png",
+      "id": 29
+    },
+    {
+      "name": "Harpie Lady Sisters",
+      "cardType": "monster-effect",
+      "type": "winged beast",
+      "attribute": "wind",
+      "edition": "mrd",
+      "imageLink": "assets/Cartas/Harpie Lady Sisters.png",
+      "id": 30
+    },
+    {
+      "name": "Dark Hole",
+      "cardType": "spell",
+      "type": "spell",
+      "attribute": "spell",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Dark Hole.png",
+      "id": 1
+    },
+    {
+      "name": "Blue-eyes white Dragon",
+      "cardType": "monster-normal",
+      "type": "dragon",
+      "attribute": "light",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Blue-Eyes White Dragon.png",
+      "id": 2
+    },
+    {
+      "name": "Gaia The Fierce Knight",
+      "cardType": "monster-normal",
+      "type": "warrior",
+      "attribute": "earth",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Gaia The Fierce Knight.png",
+      "id": 7
+    },
+    {
+      "name": "Charubin the Fire Knight",
+      "cardType": "monster-fusion",
+      "type": "pyro",
+      "attribute": "fire",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Charubin the Fire Knight.png",
+      "id": 13
+    },
+    {
+      "name": "Celtic Guardian",
+      "cardType": "monster-normal",
+      "type": "warrior",
+      "attribute": "earth",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Celtic Guardian.png",
+      "id": 8
+    },
+    {
+      "name": "Mammoth Graveyard",
+      "cardType": "monster-normal",
+      "type": "dinosaur",
+      "attribute": "earth",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Mammoth Graveyard.png",
+      "id": 10
+    },
+    {
+      "name": "Feral Imp",
+      "cardType": "monster-normal",
+      "type": "fiend",
+      "attribute": "dark",
+      "edition": "mrd",
+      "imageLink": "assets/Cartas/Feral Imp.png",
+      "id": 15
+    },
+    {
+      "name": "Dark Magician",
+      "cardType": "monster-normal",
+      "type": "spellcaster",
+      "attribute": "dark",
+      "edition": "lob",
+      "imageLink": "assets/Cartas/Dark Magician.png",
+      "id": 3
     }
   ]
 }
